@@ -2,10 +2,13 @@
 This app is react library used for studying Kanji flashcards. 
 
 ## Installation
-First you must install Node Package Manager (NPM).
+You must install Node Package Manager (NPM).
+MongoDB is also needed as a backend.
+
 
 
 Type "npm run start" on both the frontend and backend.
+
 
 
 ## Usage
